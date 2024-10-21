@@ -1,5 +1,7 @@
 # Dr. Muhammad Khatibsyarbini
 
+EDIT FROM VSCODE
+
 Dedicated and intuitive software architect and researcher with 2 years of industry experience. Recently appointed as Senior Lecturer at Universiti Teknologi Malaysia. Special interest in Artificial Intelligence (AI) related processing in real software development applications. Experienced in embedded software, consulting, and teaching. Academic involvement in software engineering, string distance metrics, and AI algorithms, specifically in swarm and machine learning.
 
 ## Contact
